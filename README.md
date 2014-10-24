@@ -4,6 +4,10 @@
 
 Made with my mentor, Michael, at [Bloc](http://bloc.io).
 
+Heroku app name: maria-bloccit
+
+<p>A <a href="git@heroku.com:maria-bloccit">link</a>.</p>
+
 Things you may want to cover:
 
 * Ruby version
